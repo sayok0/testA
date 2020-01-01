@@ -1,0 +1,30 @@
+Swe;
+
+1. Installera GitHub
+2. Öppna CMD
+3. skriv in git config --global user.
+name "namn här"
+email "email här"
+
+*En rad åt gången!
+4. Skappa ny folder på github hemsidan
+5. Skriv sedan in git clone och klistra in linken
+________________________________________________
+
+6. Öppna den nya folder på CMD (cd + folder)
+7. Skriv in git push (logga in på github)
+8. Klar!
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+För att updatera filer till github;
+git add --all (om du vill ta med allt)
+git commit -m "Text" (du kan lämna text info, skriv isf bara commit)
+git push
+
+Öppna nu github hemsidan (eller uppdatera)
+så ska du filerna kommit upp!
+
+
+För att ta med alla filer från github;
+git pull
